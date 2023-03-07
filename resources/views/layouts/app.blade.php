@@ -21,6 +21,9 @@
                 <div class="navbar-nav ms-auto">
                     <a class="nav-link active" href="{{ route('home.index')}}">Home</a>
                     <a class="nav-link active" href="{{ route('home.about')}}">About</a>
+                    <a class="nav-link active" href="{{ route('haile.index')}}">haile</a>
+                    <a class="nav-link active" href="{{ route('product.index') }}">Products</a>
+
                 </div>
             </div>
         </div>
@@ -38,9 +41,7 @@
     <div class="copyright py-4 text-center text-white">
         <div class="container">
             <small>
-                Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank" href="https://twitter.com/danielgarax">
-                    Daniel Correa
-                </a> - <b>Paola Vallejo</b>
+                Haile Dereje
             </small>
         </div>
     </div>
